@@ -1,0 +1,9 @@
+{
+  "name": "VoteIndia 2026 - Secure Digital Ballot",
+  "description": "A state-of-the-art online voting platform for the Indian General Elections, featuring AI-powered voter verification, real-time constituency insights, and secure ballot casting.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
